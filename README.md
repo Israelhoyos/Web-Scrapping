@@ -3,13 +3,13 @@
 El web scraping es una técnica utilizada para extraer información de sitios web. Implica el uso de software o scripts que navegan automáticamente por las páginas web y recuperan datos específicos de ellas. Este proceso puede variar desde la extracción de contenido simple hasta la recopilación de datos complejos, estructurados y no estructurados.
 
 ## Componentes del Web Scraping
-* Identificación de la Fuente: Seleccionar el sitio web y las páginas específicas de las que se desea extraer datos.
+* **Identificación de la Fuente:** Seleccionar el sitio web y las páginas específicas de las que se desea extraer datos.
 
-* Análisis del HTML: Comprender la estructura del HTML de las páginas objetivo. Esto incluye identificar etiquetas HTML, atributos y patrones que contienen los datos deseados.
+* **Análisis del HTML:** Comprender la estructura del HTML de las páginas objetivo. Esto incluye identificar etiquetas HTML, atributos y patrones que contienen los datos deseados.
 
-* Extracción de Datos: Utilizar herramientas y bibliotecas para navegar por las páginas web, seleccionar los elementos de interés y extraer los datos. Las bibliotecas populares para web scraping incluyen BeautifulSoup y Scrapy en Python.
+* **Extracción de Datos:** Utilizar herramientas y bibliotecas para navegar por las páginas web, seleccionar los elementos de interés y extraer los datos. Las bibliotecas populares para web scraping incluyen BeautifulSoup y Scrapy en Python.
   
-* Almacenamiento de Datos: Guardar los datos extraídos en un formato estructurado, como CSV, JSON, bases de datos SQL, etc.
+* **Almacenamiento de Datos:** Guardar los datos extraídos en un formato estructurado, como CSV, JSON, bases de datos SQL, etc.
 
 
 ## Herramientas y Tecnologías Comunes
