@@ -23,13 +23,13 @@ El web scraping es una técnica utilizada para extraer información de sitios we
 
 ## Ejemplos de Uso de Web Scraping
 
-* Agregación de Datos: Recopilar información de productos de varios sitios de comercio electrónico para comparar precios.
+* **Agregación de Datos:** Recopilar información de productos de varios sitios de comercio electrónico para comparar precios.
 
-* Análisis de Tendencias: Extraer datos de redes sociales, blogs y foros para analizar tendencias y opiniones públicas.
+* **Análisis de Tendencias:** Extraer datos de redes sociales, blogs y foros para analizar tendencias y opiniones públicas.
 
-* Monitoreo de Cambios: Supervisar cambios en los precios de acciones, bienes raíces o disponibilidad de productos.
+* **Monitoreo de Cambios:** Supervisar cambios en los precios de acciones, bienes raíces o disponibilidad de productos.
 
-* Investigación Académica: Extraer grandes cantidades de datos de publicaciones científicas, bases de datos gubernamentales y otros recursos para análisis.
+* **Investigación Académica:** Extraer grandes cantidades de datos de publicaciones científicas, bases de datos gubernamentales y otros recursos para análisis.
 
 ## Conclusión
 El web scraping es una herramienta poderosa para la recopilación automatizada de datos de sitios web. Sin embargo, debe realizarse con cuidado para cumplir con las leyes y políticas del sitio web, y se deben considerar los aspectos éticos y técnicos para evitar problemas legales y garantizar la calidad y utilidad de los datos extraídos.
