@@ -16,9 +16,9 @@ El web scraping es una técnica utilizada para extraer información de sitios we
 
 ### Librerías en Python:
 
-* BeautifulSoup: Una librería para extraer datos de archivos HTML y XML.
-* Scrapy: Un framework de scraping de alto nivel que proporciona herramientas para la navegación, extracción y almacenamiento de datos.
-* Selenium: Utilizado para automatizar navegadores web, especialmente útil para sitios dinámicos que requieren interacción con JavaScript.
+* **BeautifulSoup:** Una librería para extraer datos de archivos HTML y XML.
+* **Scrapy:** Un framework de scraping de alto nivel que proporciona herramientas para la navegación, extracción y almacenamiento de datos.
+* **Selenium:** Utilizado para automatizar navegadores web, especialmente útil para sitios dinámicos que requieren interacción con JavaScript.
 
 
 ## Ejemplos de Uso de Web Scraping
